@@ -1,0 +1,10 @@
+[
+  {
+    "package": "neverhpfilter",
+    "oncran": true
+  },
+  {
+    "package": "wooldridge",
+    "oncran": true
+  }
+]

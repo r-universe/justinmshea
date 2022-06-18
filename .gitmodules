@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "neverhpfilter"]
+	path = neverhpfilter
+	url = https://github.com/justinmshea/neverhpfilter
+	shallow = true
+	registered = true
+[submodule "wooldridge"]
+	path = wooldridge
+	url = https://github.com/justinmshea/wooldridge
+	shallow = true
+	registered = true
